@@ -15,7 +15,7 @@
 
 En este desafío, exploraremos el fascinante mundo del reporting de datos, transformando datos crudos en información significativa y visualmente impactante. A través del análisis exhaustivo de cancelaciones de reservas en un conjunto de datos de hoteles, desarrollaremos habilidades clave en limpieza, transformación de datos y visualización para comunicar insights de manera efectiva.
 
-El proyecto ha sido creado por:[Alejandra Da Silva](https://github.com/ADSBorges) [Beatriz Sánchez](https://github.com/BSReguera), [Raquel Martín](https://github.com/raquelmartinrodriguez) y [Saira Castellanos](https://github.com/saira2911), juntas formamos un gran equipo que ha dedicado esfuerzo y sacrificio para dar respuesta a este maravilloso proyecto. 
+El proyecto ha sido creado por:[Alejandra Da Silva](https://github.com/ADSBorges), [Beatriz Sánchez](https://github.com/BSReguera), [Inés Arano](https://github.com/inesaag), [Raquel Martín](https://github.com/raquelmartinrodriguez) y [Saira Castellanos](https://github.com/saira2911), juntas formamos un gran equipo que ha dedicado esfuerzo y sacrificio para dar respuesta a este maravilloso proyecto. 
 
 Objetivos del Proyecto:
 
