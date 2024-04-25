@@ -1,4 +1,3 @@
-# project-da-promo-G-module-4-team-3
 # Proyecto Data Insights: ETL y Visualización en Tableau/Power BI
 
 
@@ -15,7 +14,7 @@
 
 En este desafío, exploraremos el fascinante mundo del reporting de datos, transformando datos crudos en información significativa y visualmente impactante. A través del análisis exhaustivo de cancelaciones de reservas en un conjunto de datos de hoteles, desarrollaremos habilidades clave en limpieza, transformación de datos y visualización para comunicar insights de manera efectiva.
 
-El proyecto ha sido creado por:[Alejandra Da Silva](https://github.com/ADSBorges), [Beatriz Sánchez](https://github.com/BSReguera), [Inés Arano](https://github.com/inesaag), [Raquel Martín](https://github.com/raquelmartinrodriguez) y [Saira Castellanos](https://github.com/saira2911), juntas formamos un gran equipo que ha dedicado esfuerzo y sacrificio para dar respuesta a este maravilloso proyecto. 
+El proyecto ha sido creado por:[Alejandra Da Silva](https://github.com/ADSBorges), [Beatriz Sánchez](https://github.com/BSReguera), [Inés Arano](https://github.com/inesaag), [Raquel Martín](https://github.com/raquelmartinrodriguez) y [Saira Castellano](https://github.com/saira2911), juntas formamos un gran equipo que ha dedicado esfuerzo y sacrificio para dar respuesta a este maravilloso proyecto. 
 
 Objetivos del Proyecto:
 
@@ -45,7 +44,6 @@ El repositorio contiene diversas carpetas y documentos:
 - data/: Contiene el conjunto de datos de reservas de hotel.
 - notebooks/: Jupyter Notebooks con análisis de datos en Python.
 - scripts/: Scripts Python para limpieza y transformación de datos.
-- sql/: Consultas SQL utilizadas en el proyecto.
 - docs/: Documentación adicional y recursos.
 
 
@@ -53,7 +51,7 @@ El repositorio contiene diversas carpetas y documentos:
 
 -	Python: Pandas, Matplotlib, y Seaborn para análisis, manipulación y visualización de datos.
 -   SQL: Gestión y consultas en bases de datos relacionales.
--   Tableau/Public BI: Creación de visualizaciones interactivas y dashboards.
+-   Tableau Public/Power BI: Creación de visualizaciones interactivas y dashboards.
 -	Control de versiones en GitHub: Para la colaboración y gestión del código.
 -   Archivos: en .py y .ipynb.
 
