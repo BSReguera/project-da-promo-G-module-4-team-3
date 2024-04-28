@@ -41,7 +41,7 @@ El proyecto se desarrolla en varias fases:
 
 El repositorio contiene diversas carpetas y documentos:
 
-- data/: Contiene el conjunto de datos de reservas de hotel.
+- files/: Contiene el conjunto de datos de reservas de hotel.
 - notebooks/: Jupyter Notebooks con análisis de datos en Python.
 - scripts/: Scripts Python para limpieza y transformación de datos.
 - docs/: Documentación adicional y recursos.
@@ -50,7 +50,6 @@ El repositorio contiene diversas carpetas y documentos:
 # 3. 💻 TECNOLOGÍAS UTILIZADAS
 
 -	Python: Pandas, Matplotlib, y Seaborn para análisis, manipulación y visualización de datos.
--   SQL: Gestión y consultas en bases de datos relacionales.
 -   Tableau Public/Power BI: Creación de visualizaciones interactivas y dashboards.
 -	Control de versiones en GitHub: Para la colaboración y gestión del código.
 -   Archivos: en .py y .ipynb.
