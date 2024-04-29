@@ -41,19 +41,17 @@ El proyecto se desarrolla en varias fases:
 
 El repositorio contiene diversas carpetas y documentos:
 
-- data/: Contiene el conjunto de datos de reservas de hotel.
-- notebooks/: Jupyter Notebooks con análisis de datos en Python.
-- scripts/: Scripts Python para limpieza y transformación de datos.
-- docs/: Documentación adicional y recursos.
+- files_: Contiene el conjunto de datos de reservas de hotel.
+- notebooks: Jupyter Notebooks con análisis de datos en Python.
+- diferentes archivos: Documentación adicional, Informe y recursos. Enlace del Informe de Power BI: https://bit.ly/4dk0X08
 
 
 # 3. 💻 TECNOLOGÍAS UTILIZADAS
 
 -	Python: Pandas, Matplotlib, y Seaborn para análisis, manipulación y visualización de datos.
--   SQL: Gestión y consultas en bases de datos relacionales.
--   Tableau Public/Power BI: Creación de visualizaciones interactivas y dashboards.
+-   Power BI: Creación de visualizaciones interactivas y dashboards.
 -	Control de versiones en GitHub: Para la colaboración y gestión del código.
--   Archivos: en .py y .ipynb.
+-   Archivos: .ipynb.
 
 # 4. ❓ PREGUNTAS FRECUENTES
 
